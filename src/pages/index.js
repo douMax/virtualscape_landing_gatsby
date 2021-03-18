@@ -1,5 +1,10 @@
 import React from "react"
+import Button from "../components/Button"
 
 export default function Home() {
-  return <div>Hello world!</div>
+  return (
+    <p>
+      Helooagasdgsgasdgadsgasdfg <Button />
+    </p>
+  )
 }
