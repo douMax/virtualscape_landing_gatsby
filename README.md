@@ -1,15 +1,6 @@
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+This project is initiated by Gatsby [hello-world starter](https://github.com/gatsbyjs/gatsby-starter-hello-world).
 
 ## 🚀 Quick start
-
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the hello-world starter.
-
-    ```shell
-    # create a new Gatsby site using the hello-world starter
-    gatsby new my-hello-world-starter https://github.com/gatsbyjs/gatsby-starter-hello-world
-    ```
 
 1.  **Start developing.**
 
