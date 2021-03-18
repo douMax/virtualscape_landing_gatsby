@@ -3,6 +3,7 @@ This project is initiated by Gatsby [hello-world starter](https://github.com/gat
 ## 🚀 Quick start
 
 1.  **Start developing.**
+To read from here
 
     Navigate into your new site’s directory and start it up.
 
