@@ -7,5 +7,5 @@ const PrimaryButton = styled.div`
 `
 
 export default function Button(props) {
-  return <a style={style}>{props.text}</a>
+  return <PrimaryButton style={style}>{props.text}</PrimaryButton>
 }
